@@ -1,0 +1,74 @@
+[
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8c9d"},
+    "name": "Lucas Ferreira",
+    "email": "lucas.ferreira@email.com",
+    "city": "São Paulo",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-11-01T10:00:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8c9e"},
+    "name": "Marina Costa",
+    "email": "marina.costa@email.com",
+    "city": "Rio de Janeiro",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-10-15T14:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8c9f"},
+    "name": "Rafael Santos",
+    "email": "rafael.santos@email.com",
+    "city": "Belo Horizonte",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-09-20T08:15:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca0"},
+    "name": "Juliana Oliveira",
+    "email": "juliana.oliveira@email.com",
+    "city": "Curitiba",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-10-05T16:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca1"},
+    "name": "Pedro Almeida",
+    "email": "pedro.almeida@email.com",
+    "city": "Porto Alegre",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-11-10T11:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca2"},
+    "name": "Amanda Silva",
+    "email": "amanda.silva@email.com",
+    "city": "Salvador",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-11-20T09:30:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca3"},
+    "name": "Bruno Rodrigues",
+    "email": "bruno.rodrigues@email.com",
+    "city": "Brasília",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-10-25T13:00:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca4"},
+    "name": "Camila Mendes",
+    "email": "camila.mendes@email.com",
+    "city": "Recife",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-09-30T15:45:00Z"}
+  },
+  {
+    "_id": {"$oid": "67619a1b2c3d4e5f6a7b8ca5"},
+    "name": "Diego Souza",
+    "email": "diego.souza@email.com",
+    "city": "Fortaleza",
+    "hashed_password": "$2a$12$SMIrc6ierGuhQOBEo4APqeMf0KilsntYehbMLLNVPSoSDk//LFbY6",
+    "created_at": {"$date": "2025-11-15T12:10:00Z"}
+  }
+]

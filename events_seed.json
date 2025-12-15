@@ -1,0 +1,219 @@
+[
+  {
+    "title": "Campeonato de Futebol Society",
+    "banner": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=800",
+    "date": "2025-12-20T18:00:00Z",
+    "time": "18:00",
+    "price": 50.0,
+    "capacity": 22,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8c9d",
+    "organizer_name": "Lucas Ferreira",
+    "organizer_rating": 4.8,
+    "category": "Esportes",
+    "description": "Campeonato de futebol society com equipes locais. Premiação para os 3 primeiros lugares.",
+    "location": "Arena Esportiva Central - Rua das Flores, 123",
+    "rules": [
+      "Respeitar os adversários",
+      "Não é permitido violência",
+      "Chegar 30 minutos antes",
+      "Trazer documento com foto"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8c9d", "67619a1b2c3d4e5f6a7b8c9e", "67619a1b2c3d4e5f6a7b8c9f"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Festival de Música Eletrônica",
+    "banner": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?w=800",
+    "date": "2025-12-25T22:00:00Z",
+    "time": "22:00",
+    "price": 80.0,
+    "capacity": 500,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8c9e",
+    "organizer_name": "Marina Costa",
+    "organizer_rating": 4.9,
+    "category": "Música",
+    "description": "Noite de música eletrônica com DJs locais e nacionais. Open bar incluso.",
+    "location": "Clube Sunset - Av. Beira Mar, 456",
+    "rules": [
+      "Proibido entrada de menores de 18 anos",
+      "Não é permitido bebidas externas",
+      "Dress code: casual chic"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8c9d", "67619a1b2c3d4e5f6a7b8ca0", "67619a1b2c3d4e5f6a7b8ca1", "67619a1b2c3d4e5f6a7b8ca2"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Workshop de Desenvolvimento Web",
+    "banner": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=800",
+    "date": "2025-12-18T14:00:00Z",
+    "time": "14:00",
+    "price": null,
+    "capacity": 50,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8c9f",
+    "organizer_name": "Rafael Santos",
+    "organizer_rating": 4.7,
+    "category": "Tecnologia",
+    "description": "Workshop gratuito sobre desenvolvimento web moderno com React e FastAPI.",
+    "location": "Tech Hub - Sala 301, Rua da Tecnologia, 789",
+    "rules": [
+      "Trazer notebook próprio",
+      "Conhecimento básico de programação"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8c9e", "67619a1b2c3d4e5f6a7b8ca0", "67619a1b2c3d4e5f6a7b8ca3", "67619a1b2c3d4e5f6a7b8ca4", "67619a1b2c3d4e5f6a7b8ca5"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Exposição de Arte Contemporânea",
+    "banner": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=800",
+    "date": "2026-01-05T10:00:00Z",
+    "time": "10:00",
+    "price": 25.0,
+    "capacity": 100,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca0",
+    "organizer_name": "Juliana Oliveira",
+    "organizer_rating": 4.6,
+    "category": "Arte",
+    "description": "Exposição de artistas locais com obras de pintura, escultura e fotografia.",
+    "location": "Galeria Municipal - Centro Cultural",
+    "rules": [
+      "Não tocar nas obras",
+      "Fotografias permitidas sem flash"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8c9f", "67619a1b2c3d4e5f6a7b8ca1"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Maratona de Corrida 10K",
+    "banner": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800",
+    "date": "2026-01-10T06:00:00Z",
+    "time": "06:00",
+    "price": 40.0,
+    "capacity": 200,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca1",
+    "organizer_name": "Pedro Almeida",
+    "organizer_rating": 4.9,
+    "category": "Esportes",
+    "description": "Maratona de 10km com percurso pela orla. Kit corredor incluso.",
+    "location": "Parque da Orla - Ponto de encontro: Estátua Principal",
+    "rules": [
+      "Apresentar atestado médico",
+      "Retirar kit no dia anterior",
+      "Chegar 1 hora antes"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8c9d", "67619a1b2c3d4e5f6a7b8ca2", "67619a1b2c3d4e5f6a7b8ca5"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Festival Gastronômico",
+    "banner": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+    "date": "2025-12-28T12:00:00Z",
+    "time": "12:00",
+    "price": null,
+    "capacity": 300,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca2",
+    "organizer_name": "Amanda Silva",
+    "organizer_rating": 4.8,
+    "category": "Gastronomia",
+    "description": "Festival gratuito com food trucks e demonstrações culinárias. Comidas e bebidas pagas à parte.",
+    "location": "Praça Central - Área de Eventos",
+    "rules": [
+      "Entrada gratuita",
+      "Consumações pagas individualmente",
+      "Não é permitido trazer alimentos externos"
+    ],
+    "registered_users": [],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Networking para Empreendedores",
+    "banner": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=800",
+    "date": "2025-12-16T19:00:00Z",
+    "time": "19:00",
+    "price": 30.0,
+    "capacity": 80,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca3",
+    "organizer_name": "Bruno Rodrigues",
+    "organizer_rating": 4.7,
+    "category": "Networking",
+    "description": "Evento de networking para empreendedores e investidores. Coffee break incluso.",
+    "location": "Espaço Coworking Premium - Sala Executiva",
+    "rules": [
+      "Trazer cartões de visita",
+      "Dress code: business casual"
+    ],
+    "registered_users": [],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Palestra: Inteligência Artificial",
+    "banner": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
+    "date": "2025-12-22T15:00:00Z",
+    "time": "15:00",
+    "price": null,
+    "capacity": 150,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca4",
+    "organizer_name": "Camila Mendes",
+    "organizer_rating": 5.0,
+    "category": "Tecnologia",
+    "description": "Palestra sobre os avanços e aplicações da Inteligência Artificial no mercado brasileiro.",
+    "location": "Auditório da Universidade - Campus Central",
+    "rules": [
+      "Evento gratuito",
+      "Requer inscrição prévia"
+    ],
+    "registered_users": [],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Show de Stand-Up Comedy",
+    "banner": "https://images.unsplash.com/photo-1585699324551-f6c309eedeca?w=800",
+    "date": "2025-12-30T21:00:00Z",
+    "time": "21:00",
+    "price": 60.0,
+    "capacity": 120,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8ca5",
+    "organizer_name": "Diego Souza",
+    "organizer_rating": 4.5,
+    "category": "Entretenimento",
+    "description": "Noite de stand-up com comediantes locais e convidado especial surpresa.",
+    "location": "Teatro Municipal - Sala Principal",
+    "rules": [
+      "Proibido para menores de 16 anos",
+      "Não é permitido fotografar durante o show",
+      "Chegar com 30 minutos de antecedência"
+    ],
+    "registered_users": [],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  },
+  {
+    "title": "Aula de Yoga ao Ar Livre",
+    "banner": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+    "date": "2025-12-15T07:00:00Z",
+    "time": "07:00",
+    "price": null,
+    "capacity": 40,
+    "organizer_id": "67619a1b2c3d4e5f6a7b8c9d",
+    "organizer_name": "Lucas Ferreira",
+    "organizer_rating": 4.9,
+    "category": "Saúde e Bem-estar",
+    "description": "Aula gratuita de yoga ao amanhecer no parque. Todos os níveis são bem-vindos.",
+    "location": "Parque da Cidade - Área Verde Principal",
+    "rules": [
+      "Trazer seu próprio tapete",
+      "Usar roupas confortáveis",
+      "Chegar 10 minutos antes"
+    ],
+    "registered_users": ["67619a1b2c3d4e5f6a7b8ca0", "67619a1b2c3d4e5f6a7b8ca3", "67619a1b2c3d4e5f6a7b8ca4"],
+    "status": "open",
+    "created_at": {"$date": "2025-12-13T00:00:00Z"}
+  }
+]

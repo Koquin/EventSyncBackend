@@ -1,0 +1,50 @@
+[
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8c9d"},
+    "evento_id": "evento_1_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8c9d",
+    "status": "aprovada",
+    "timestamp_inscricao": {"$date": "2025-12-01T10:00:00Z"},
+    "timestamp_pagamento": {"$date": "2025-12-01T10:05:00Z"}
+  },
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8c9e"},
+    "evento_id": "evento_2_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8c9e"},
+    "status": "aguardando_pagamento",
+    "timestamp_inscricao": {"$date": "2025-12-05T14:30:00Z"},
+    "timestamp_pagamento": null
+  },
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8c9f"},
+    "evento_id": "evento_3_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8c9f",
+    "status": "aprovada",
+    "timestamp_inscricao": {"$date": "2025-11-28T09:15:00Z"},
+    "timestamp_pagamento": {"$date": "2025-11-28T09:20:00Z"}
+  },
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8ca0"},
+    "evento_id": "evento_4_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8ca0",
+    "status": "finalizada",
+    "timestamp_inscricao": {"$date": "2025-11-15T16:45:00Z"},
+    "timestamp_pagamento": {"$date": "2025-11-15T16:50:00Z"}
+  },
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8ca1"},
+    "evento_id": "evento_5_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8ca1",
+    "status": "cancelada",
+    "timestamp_inscricao": {"$date": "2025-12-08T11:20:00Z"},
+    "timestamp_pagamento": null
+  },
+  {
+    "_id": {"$oid": "67819a1b2c3d4e5f6a7b8ca2"},
+    "evento_id": "evento_6_id_placeholder",
+    "usuario_id": "67619a1b2c3d4e5f6a7b8ca2",
+    "status": "recusada",
+    "timestamp_inscricao": {"$date": "2025-12-03T08:00:00Z"},
+    "timestamp_pagamento": null
+  }
+]
